@@ -19,4 +19,4 @@ https://alfredsimpson.itch.io/impact-by-alfredsimpson
 
 # Go play:
 
-<iframe src="https://itch.io/embed/1467374" width="552" height="167" frameborder="0"><a href="https://alfredsimpson.itch.io/impact-by-alfredsimpson">Impact by AlfredSimpson by AlfredSimpson</a></iframe>
+<a href="https://alfredsimpson.github.io/Impact_TheGame/">Play me!</a>
